@@ -1,0 +1,19 @@
+[
+   {
+      "$type": "LABA4.Watch, LABA4",
+      "Cost": 1220,
+      "Manufacturer": "Apple",
+      "Name": "Elektronik",
+      "Delivery": "BY Post",
+      "Mass": 320
+   },
+   {
+      "$type": "LABA4.Flowers, LABA4",
+      "Cost": 112,
+      "Manufacturer": "Kopei4ka",
+      "Name": "Fialki",
+      "Delivery": "Do domu",
+      "Mass": 122,
+      "ColorFlower": "Red"
+   }
+]
