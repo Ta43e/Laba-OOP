@@ -19,7 +19,8 @@ namespace LABA7
             list.Add(persin2);
             list.Add(persin3);
             list.Print();
-
+            list.Remove(1);
+            list.Print();
         }
     }
 }
