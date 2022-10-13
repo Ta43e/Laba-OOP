@@ -1,0 +1,17 @@
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\bin\Debug\net6.0\LABA6.exe
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\bin\Debug\net6.0\LABA6.deps.json
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\bin\Debug\net6.0\LABA6.runtimeconfig.json
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\bin\Debug\net6.0\LABA6.dll
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\bin\Debug\net6.0\LABA6.pdb
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.csproj.AssemblyReference.cache
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.AssemblyInfoInputs.cache
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.AssemblyInfo.cs
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.csproj.CoreCompileInputs.cache
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.csproj.CopyComplete
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.dll
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\refint\LABA6.dll
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.pdb
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\LABA6.genruntimeconfig.cache
+D:\УНИК\Семестр 3\ООП\LABA6\LABA4\obj\Debug\net6.0\ref\LABA6.dll
