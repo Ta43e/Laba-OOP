@@ -4,11 +4,10 @@ using System.Collections;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Nodes;
 namespace LABA7
 {
 
-    public class CollectionType<T, V>  : ListIntefeice<T> where T : Person<int> where V : Person<string>
+    public class CollectionType<T, V> : ListIntefeice<T> where T : Person<int> where V : Person<string>
     {
         private ArrayList MyArrayList;
 
@@ -24,14 +23,28 @@ namespace LABA7
             {
                 return MyArrayList.Count;
             }
+            set
+            {
+                Count = value;
+            }
         }
 
+        public bool Find<T>(T target)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                if (MyArrayList[i].Equals(target))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
         public bool IsReadOnly => throw new NotImplementedException();
 
         public void Add(T Item)
         {
             MyArrayList.Add(Item);
-
         }
         public void Add(V Item)
         {
@@ -56,10 +69,9 @@ namespace LABA7
         }
         public bool Remove(T Item)
         {
-            bool flag = false;
             for (int i = 0; i < Count; i++)
             {
-                if (MyArrayList[i].GetHashCode() == Item.GetHashCode())
+                if (MyArrayList[i].Equals(Item))
                 {
                     MyArrayList.RemoveAt(i);
                     return true;

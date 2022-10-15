@@ -8,6 +8,6 @@ namespace LABA7
 {
     public interface ListIntefeice<T> : ICollection<T> where T : class
     {
-
+        bool Find<T>(T target);
     }
 }

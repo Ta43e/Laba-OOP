@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace LABA7
 {
-    public class Person<T>
+    public class Person<T> where T : IComparable<T>
     {
         public string Name;
-        public T password;
+        private T password;
+
+        public T Password { get { return password; } set { password = value; } }
+
         public Person(string name, T password)
         {
             Name = name;
@@ -18,10 +21,27 @@ namespace LABA7
 
         public override string ToString()
         {
-            return GetType().Name + " " + "Name" +
+            return GetType().Name + " " + "Name " +
                 Name + " " + "password" + " " + password;
         }
 
+        public override bool Equals(object? obj)
+        {
+            if (obj == this)
+            {
+                return true;
+            }
+            if (obj == null)
+            {
+                return false;
+            }
+            Person<T> test = obj as Person<T>;
+             if (test as Person<T> == null)
+            {
+                return false;
+            }
+            return test.Name == this.Name && EqualityComparer<T>.Default.Equals(test.password, this.password);
+        }
         public override int GetHashCode()
         {
             int Hach = GetHashCode();

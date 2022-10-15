@@ -28,3 +28,5 @@ D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA7\LABA7\obj\Debug\net6.
 D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA7\LABA7\obj\Debug\net6.0\LABA7.pdb
 D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA7\LABA7\obj\Debug\net6.0\LABA7.genruntimeconfig.cache
 D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA7\LABA7\obj\Debug\net6.0\ref\LABA7.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA7\LABA7\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA7\LABA7\obj\Debug\net6.0\LABA7.csproj.CopyComplete
