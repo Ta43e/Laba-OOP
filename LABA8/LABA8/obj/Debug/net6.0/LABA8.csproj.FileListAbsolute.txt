@@ -1,0 +1,15 @@
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.csproj.AssemblyReference.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.AssemblyInfoInputs.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.AssemblyInfo.cs
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.csproj.CoreCompileInputs.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\bin\Debug\net6.0\LABA8.exe
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\bin\Debug\net6.0\LABA8.deps.json
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\bin\Debug\net6.0\LABA8.runtimeconfig.json
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\bin\Debug\net6.0\LABA8.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\bin\Debug\net6.0\LABA8.pdb
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\refint\LABA8.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.pdb
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\LABA8.genruntimeconfig.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA8\LABA8\obj\Debug\net6.0\ref\LABA8.dll

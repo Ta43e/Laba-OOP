@@ -44,7 +44,10 @@ namespace LABA7_1
                 json<int>.Ser(obj);
                 json<int>.Der(objJson);
                 objJson.PrintList();
-
+                //----------------------//
+                Test<Person<string>> test = new Test<Person<string>>();
+                test.AddMass(personString);
+                test.PrintMass();
             }
             catch (Exception e)
             {

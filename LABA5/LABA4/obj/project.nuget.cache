@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tKNZLw+s6nG0x6V/PQEOhE+sPNa0Si75JfMXsI2VqdXLoAw+wX5MIFwVwVgmJO1SKAtSxlAg+dspB7Mk5+waSg==",
+  "dgSpecHash": "wBUoPha1tQVv3WtylkoWzy0/zVmlQcIwq4lXUkjvAIrvWnrpYmQUNib13sEB8kqQZuSZlgH4Pd2Y5w24JNJa+Q==",
   "success": true,
-  "projectFilePath": "D:\\УНИК\\Семестр 3\\ООП\\LABA5\\LABA4\\LABA5.csproj",
+  "projectFilePath": "D:\\УНИК\\Семестр 3\\ООП\\OOP_git\\Laba-OOP\\LABA5\\LABA4\\LABA5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\37529\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LABA7_1
 {
-    public class Person<T> where T : IComparable<T>
+    public class Person<T>
     {
         public string Name;
         private T password;
