@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\УНИК\\Семестр 3\\ООП\\LABA2\\LABA2\\LABA2.csproj",
+      "projectUniqueName": "D:\\УНИК\\Семестр 3\\ООП\\OOP_git\\Laba-OOP\\LABA2\\LABA2\\LABA2.csproj",
       "projectName": "LABA2",
-      "projectPath": "D:\\УНИК\\Семестр 3\\ООП\\LABA2\\LABA2\\LABA2.csproj",
+      "projectPath": "D:\\УНИК\\Семестр 3\\ООП\\OOP_git\\Laba-OOP\\LABA2\\LABA2\\LABA2.csproj",
       "packagesPath": "C:\\Users\\37529\\.nuget\\packages\\",
-      "outputPath": "D:\\УНИК\\Семестр 3\\ООП\\LABA2\\LABA2\\obj\\",
+      "outputPath": "D:\\УНИК\\Семестр 3\\ООП\\OOP_git\\Laba-OOP\\LABA2\\LABA2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

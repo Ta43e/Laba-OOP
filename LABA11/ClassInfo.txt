@@ -1,0 +1,1962 @@
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 1
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Assembly Full Name:
+LABA11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Публичных конструкторов: 2
+Boolean Equals
+Int32 GetHashCode
+String ToString
+Int32 GetYear
+Int32 GetColCar
+static: Int32 InfoClass
+Void TestOut
+Int32 RefResult
+Int32 TestPrivateConstructor
+Type GetType
+String ToString
+Void IdPrint
+Int32 IdZamena
+Void TestLaba
+Type GetType
+Boolean Equals
+Int32 GetHashCode
+Поле IdClass 
+Поле hachcode 
+Cвойство _id 
+Cвойство _name 
+Cвойство _year 
+Cвойство _model 
+Cвойство _color 
+Cвойство _cost 
+Cвойство _ColCar 
+Интерфейсов нету
+Интерфейсов нету
+TestOut Int32 System.Int32
+TestOut Int32 System.Int32
+TestOut Int32& System.Int32&
+
+---------
+set__year Int32 System.Int32
+
+---------
+set__cost Int32 System.Int32
+
+---------
+IdZamena Int32 System.Int32
+
+---------
+Assembly Full Name:
+System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+Интерфейсов нету
+Публичных конструкторов: 1

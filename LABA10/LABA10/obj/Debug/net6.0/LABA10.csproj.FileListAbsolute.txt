@@ -1,0 +1,15 @@
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\bin\Debug\net6.0\LABA10.exe
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\bin\Debug\net6.0\LABA10.deps.json
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\bin\Debug\net6.0\LABA10.runtimeconfig.json
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\bin\Debug\net6.0\LABA10.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\bin\Debug\net6.0\LABA10.pdb
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.csproj.AssemblyReference.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.AssemblyInfoInputs.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.AssemblyInfo.cs
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.csproj.CoreCompileInputs.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\refint\LABA10.dll
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.pdb
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\LABA10.genruntimeconfig.cache
+D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA10\LABA10\obj\Debug\net6.0\ref\LABA10.dll
