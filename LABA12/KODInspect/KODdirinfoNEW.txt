@@ -1,0 +1,67 @@
+Список папок:
+D:\$RECYCLE.BIN
+D:\7-Zip
+D:\AIDA64 Extreme
+D:\eeerdgb
+D:\Git
+D:\gitignore-master
+D:\GPU-Z
+D:\IntelliJ IDEA Community Edition 2022.1.3
+D:\KMSAuto++ Portable v1.5.5 password 2019
+D:\libdd
+D:\merged_partition_content
+D:\MiniTool Partition Wizard 12
+D:\MSI Afterburner
+D:\NetCrackerPro4.1
+D:\OneDriveTemp
+D:\qBittorrent
+D:\Repositorii
+D:\RivaTuner Statistics Server
+D:\sait
+D:\SteamLibrary
+D:\System Volume Information
+D:\Ubisoft Game Launcher
+D:\VS
+D:\Восстановлено
+D:\ер
+D:\Загрузки
+D:\КУРСАЧ
+D:\Немецкий
+D:\Новая папка
+D:\Поехали
+D:\тест
+D:\Торренты
+D:\УНИК
+D:\флеш
+Список файлов:
+D:\7zxa.dll
+D:\Default.SFX
+D:\Default64.SFX
+D:\Descript.ion
+D:\DumpStack.log.tmp
+D:\License.txt
+D:\nsm.dll
+D:\nsmc.exe
+D:\Order.htm
+D:\pagefile.sys
+D:\Rar.exe
+D:\Rar.txt
+D:\RarExt.dll
+D:\RarExt32.dll
+D:\RarFiles.lst
+D:\rarnew.dat
+D:\ReadMe.txt
+D:\Uninstall.exe
+D:\Uninstall.lst
+D:\UnRAR.exe
+D:\w40kdows_rus_full.rar
+D:\WhatsNew.txt
+D:\WinCon.SFX
+D:\WinCon64.SFX
+D:\WinRAR.chm
+D:\WinRAR.exe
+D:\Zip.SFX
+D:\Zip64.SFX
+D:\zipnew.dat
+D:\Локальный диск (D) - Ярлык.lnk
+D:\УНИК — ярлык.lnk

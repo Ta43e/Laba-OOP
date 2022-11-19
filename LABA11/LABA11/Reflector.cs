@@ -22,13 +22,15 @@ namespace LABA11
             streamWrite.Close();
         }
         //----b----//
-        public static void GetConstructors(string NameClass)
+        public static IEnumerable<string> GetConstructors(string NameClass)
         {
             streamWrite = new StreamWriter(@"D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA11\ClassInfo.txt", true);
+            List<string> list = new List<string>();
             ConstructorInfo[] infoCar = Type.GetType(NameClass).GetConstructors();
-            Console.WriteLine($"Публичных конструкторов: {infoCar.Length}");
             streamWrite.WriteLine($"Публичных конструкторов: {infoCar.Length}");
             streamWrite.Close();
+            list.Add("Публичных конструкторов: " + infoCar.Length);
+            return list;
         }
         //----c-----//
         public static IEnumerable<string> CheckMetod(string NameClass)
@@ -88,6 +90,7 @@ namespace LABA11
             streamWrite.Close();
             return list;
         }
+        //-----e-----//
         public static IEnumerable<string> InfoInterfeice(string NameClass)
         {
             streamWrite = new StreamWriter(@"D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA11\ClassInfo.txt", true);

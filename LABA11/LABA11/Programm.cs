@@ -36,7 +36,6 @@ namespace LABA11
             Console.WriteLine("-----------InfoPole----------");
             print.Invoke((List<string>)Reflector.InfoPole("LABA11.Car"));
             Console.WriteLine("---------------------");
-            //print.Invoke((List<string>)Reflector.InfoPole("Production"));
             Console.WriteLine("--------InfoInterfese----------");
             print.Invoke((List<string>)Reflector.InfoInterfeice("LABA11.Car"));
             Console.WriteLine("---------------------");

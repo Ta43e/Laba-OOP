@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE0005: Директива using не нужна.
+dotnet_diagnostic.IDE0005.severity = silent
+
+# SYSLIB0011: Тип или член устарел
+dotnet_diagnostic.SYSLIB0011.severity = silent
+
+# CS8618: Поле, не допускающее значения NULL, должно содержать значение, отличное от NULL, при выходе из конструктора. Возможно, стоит объявить поле как допускающее значения NULL.
+dotnet_diagnostic.CS8618.severity = silent
