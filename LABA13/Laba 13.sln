@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{3E110728-BECA-4DE1-83F2-A97D72546F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{01754027-9B58-4F5C-A6CF-BC9254FB9676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{EEF31659-337A-4292-B613-648E8D9B2891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEF31659-337A-4292-B613-648E8D9B2891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEF31659-337A-4292-B613-648E8D9B2891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E110728-BECA-4DE1-83F2-A97D72546F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E110728-BECA-4DE1-83F2-A97D72546F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E110728-BECA-4DE1-83F2-A97D72546F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E110728-BECA-4DE1-83F2-A97D72546F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01754027-9B58-4F5C-A6CF-BC9254FB9676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01754027-9B58-4F5C-A6CF-BC9254FB9676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01754027-9B58-4F5C-A6CF-BC9254FB9676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01754027-9B58-4F5C-A6CF-BC9254FB9676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

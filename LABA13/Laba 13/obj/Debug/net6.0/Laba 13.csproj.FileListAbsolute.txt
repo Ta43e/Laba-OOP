@@ -15,3 +15,20 @@ D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\ne
 D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\ref\Laba 13.dll
 D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\bin\Debug\net6.0\SoapFormatter.dll
 D:\УНИК\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.csproj.CopyComplete
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\bin\Debug\net6.0\Laba 13.exe
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\bin\Debug\net6.0\Laba 13.deps.json
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\bin\Debug\net6.0\Laba 13.runtimeconfig.json
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\bin\Debug\net6.0\Laba 13.dll
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\bin\Debug\net6.0\Laba 13.pdb
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\bin\Debug\net6.0\SoapFormatter.dll
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.csproj.AssemblyReference.cache
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.AssemblyInfoInputs.cache
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.AssemblyInfo.cs
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.csproj.CoreCompileInputs.cache
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.csproj.CopyComplete
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.dll
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\refint\Laba 13.dll
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.pdb
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\Laba 13.genruntimeconfig.cache
+D:\YNIK\Семестр 3\ООП\OOP_git\Laba-OOP\LABA13\Laba 13\obj\Debug\net6.0\ref\Laba 13.dll

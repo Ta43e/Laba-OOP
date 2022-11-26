@@ -101,15 +101,6 @@ namespace Laba_13
                 foreach (XmlNode nod in node)
                     Console.WriteLine(nod.OuterXml);
             }
-            XmlNodeList nodeList = xDoc.DocumentElement.SelectNodes("/Goods/body");
-            foreach (XmlNode no in nodeList)
-            {
-                Console.WriteLine("========================= qwfqwf ==================");
-                Goods cakes = new Cake();
-                cakes.Manufacturer = no.SelectSingleNode("Manufacturer").InnerText;
-                cakes.Delivery = no.SelectSingleNode("Delivery").InnerText;
-                Console.WriteLine(cakes.ToString());
-            }
             //---------------------- 4 задание -------------------------//
             Console.WriteLine("=====================Задание 4======================");
             XDocument xDoc2 = new XDocument();
@@ -118,15 +109,28 @@ namespace Laba_13
             XElement delivery;
             XAttribute cost;
 
-            cake = new XElement("Cake");
-            delivery = new XElement("Delivery");
-            delivery.Value = "OOO BST.by";
-            cost = new XAttribute("Cost", "1234");
-            cake.Add(delivery);
-            cake.Add(cost);
-            root.Add(cake);
+            var list = new List<Goods>();
+            list.Add(cakeBinary);
+            list.Add(cakeSoap);
+            list.Add(cakeXML);
+            foreach (var item in list)
+            {
+                if (item is Cake)
+                {
+                    cake = new XElement("Cake");
+                    delivery = new XElement("Delivery");
+                    delivery.Value = item.Delivery;
+                    cost = new XAttribute("Cost", item.Cost);
+                    cake.Add(delivery);
+                    cake.Add(cost);
+                    root.Add(cake);
+                }
+                else
+                {
+                    Console.WriteLine("Лох");
+                }
+            } 
             xDoc2.Add(root);
-            xDoc2.Save("NewTest.xml");
             var elements = from p in root.Elements("Cake").Where(p => Convert.ToInt32(p.Attribute("Cost").Value) < 10000) select p;
             foreach (var item in elements)
             {
