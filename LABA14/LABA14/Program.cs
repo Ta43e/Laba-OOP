@@ -161,7 +161,7 @@ namespace LABA14
             время выполнения выведите информацию о статусе потока, имени, приоритете, числовой 
             идентификатор и т.д.
             */
-            Console.Clear();
+            //Console.Clear();
             ParameterizedThreadStart param = new ParameterizedThreadStart(Calculation);
             Thread MyThread = new Thread(param);
             MyThread.Start(12);

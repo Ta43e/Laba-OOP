@@ -28,8 +28,6 @@ namespace Laba_13
             return "Cost: " + Cost + " " +
                    "Manufacturer: " + Manufacturer;
         }
-
         public abstract string Info();
-
     }
 }

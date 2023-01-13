@@ -51,6 +51,7 @@ namespace Laba_13
                 Console.WriteLine(JsonCake.ToString());
                 Console.WriteLine("========================");
             };
+
             Goods cakeXML = new Cake(5622, "BNTU", "ZALESE", "OOO Trans.by", "Orech");
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(Cake));
             using (FileStream fs = new FileStream("XmlFormat.xml", FileMode.OpenOrCreate))

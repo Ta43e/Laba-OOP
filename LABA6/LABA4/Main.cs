@@ -13,10 +13,10 @@ namespace LABA6
         public static void Main(string[] args)
         {
             // ------ Макрос Assert ------ 
-            int index;
-            index = -40;
-            Debug.Assert(index > -1, "Error, gabela");
-           Flowers flowers3 = new Flowers(12, "BSTU", "Rose", "Post By", "Red", 12);
+            //int index;
+            //index = -40;
+            //Debug.Assert(index > -1, "Error, gabela");
+            Flowers flowers3 = new Flowers(12, "BSTU", "Rose", "Post By", "Red", 12);
             ThrowException1(flowers3);
             static void ThrowException1(Flowers flowers3)
             {
@@ -35,8 +35,7 @@ namespace LABA6
             }
             catch (Exception e)
             {
-                Console.WriteLine("Exception 1:");
-                Console.WriteLine(e.StackTrace);
+                Console.WriteLine("Exception 1:" + e.Message);
             }
             try
             {

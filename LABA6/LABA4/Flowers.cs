@@ -61,7 +61,7 @@ namespace LABA6
 
         public int TestProbros(int Cost)
         {
-            return Cost / 0;
+            throw new Exception("fff");
         }
 
         void IFlowers.ColСommodity() => Console.WriteLine("Создано " + Col + " объектa " + GetType().Name + " явная реализация интерфейса");
